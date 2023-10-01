@@ -36,16 +36,11 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-red?style=flat&logo=sql&logoColor=white)
 
-
-<!---
-vaheedsk36/vaheedsk36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaheedsk36&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaheedsk36&show_icons" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BoussemousseT&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BoussemousseT&show_icons" />
 </p>
 
 
