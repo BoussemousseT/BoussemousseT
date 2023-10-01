@@ -26,6 +26,13 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=ffffff&labelColor=4EAA25)
+![Java](https://img.shields.io/badge/Java-<COULEUR>?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-<COULEUR>?style=flat&logo=php&logoColor=white)
+![Android](https://img.shields.io/badge/Android-<COULEUR>?style=flat&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-<COULEUR>?style=flat&logo=firebase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-<COULEUR>?style=flat&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-<COULEUR>?style=flat&logo=bitbucket&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-<COULEUR>?style=flat&logo=filezilla&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-red?style=flat&logo=sql&logoColor=white)
 
