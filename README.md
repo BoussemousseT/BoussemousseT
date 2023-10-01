@@ -1,20 +1,13 @@
-## Hey 👋, I'm [Vaheed!](https://www.linkedin.com/in/sk36/)
+## Hey 👋, I'm [Taoufik!](https://www.linkedin.com/in/t-boussemousse/)
 
 
 ## About Me 🚀
-🌱 I’m a software engineer. </br>
-👨‍💻 I am passionate about software engineering & I enjoy learning new things. Also, I write tech blogs.</br>
-
-
-## My Experiences 🙌
-- [Software Engineer 1 (1Digitalstack)](https://1digitalstack.ai/) - (March'22-Present)
-
+👨‍💻 I'm Taoufik, a passionate developer. I specialize in Web Development, crafting seamless user experiences and robust backend solutions. With a knack for problem-solving, I thrive on creating elegant code that makes an impact. I'm always exploring new tools and techniques to stay at the forefront of the ever-evolving tech landscape.</br>
 
 ## 🕹️ Connect with me
-🌐 Visit my portfolio [website](https://vaheedshaik.tech/) <br/>
-📫 To reach me mail at: vaheedsk36@gmail.com  <br/>
-➡️ You can also reach me on [linkedin](https://www.linkedin.com/in/sk36/)  <br/>
-🧑‍💻 Checkout my blog on [hashnode](https://codersk36.hashnode.dev/)
+🌐 Visit my portfolio [website](https://boussemousse.com/) <br/>
+📫 To reach me mail at: boussemoussetaoufik@gmail.com  <br/>
+➡️ You can also reach me on [linkedin](https://www.linkedin.com/in/t-boussemousse/)  <br/>
 
 
 ## 💻 Tech Stack
@@ -24,28 +17,18 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![ChakraUI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next%20js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![PugJS](https://img.shields.io/badge/Pug-E3C29B?style=flat&logo=pug&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=ffffff&labelColor=4EAA25)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-red?style=flat&logo=sql&logoColor=white)
+
 
 <!---
 vaheedsk36/vaheedsk36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
